@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\创新创业实践\lengthextenceandsm3\源.cpp(15,2): warning C4091: “static ”: 没有声明变量时忽略“const <unnamed-enum-A>”的左侧
+E:\创新创业实践\lengthextenceandsm3\源.cpp(140,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\创新创业实践\lengthextenceandsm3\源.cpp(165,16): warning C4309: “参数”: 截断常量值
+E:\创新创业实践\lengthextenceandsm3\源.cpp(166,20): warning C4018: “<”: 有符号/无符号不匹配
+  lengthextenceandsm3.vcxproj -> E:\创新创业实践\lengthextenceandsm3\Debug\lengthextenceandsm3.exe
