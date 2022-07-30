@@ -1,0 +1,9 @@
+﻿  源.cpp
+E:\创新创业实践\brithdaysm3\源.cpp(115,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\创新创业实践\brithdaysm3\源.cpp(143,27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  39 of 129 functions (30.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  brithdaysm3.vcxproj -> E:\创新创业实践\brithdaysm3\Release\brithdaysm3.exe
