@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\创新创业实践\MerkleTree\源.cpp(130,18): warning C4018: “<”: 有符号/无符号不匹配
+E:\创新创业实践\MerkleTree\源.cpp(229,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\创新创业实践\MerkleTree\源.cpp(249,28): warning C4018: “<”: 有符号/无符号不匹配
+E:\创新创业实践\MerkleTree\源.cpp(254,14): warning C4018: “<”: 有符号/无符号不匹配
+  MerkleTree.vcxproj -> E:\创新创业实践\MerkleTree\Debug\MerkleTree.exe
