@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\创新创业实践\sm2sig\源.cpp(245,20): warning C4101: “i”: 未引用的局部变量
+    正在创建库 E:\创新创业实践\sm2sig\Debug\sm2sig.lib 和对象 E:\创新创业实践\sm2sig\Debug\sm2sig.exp
+  sm2sig.vcxproj -> E:\创新创业实践\sm2sig\Debug\sm2sig.exe
